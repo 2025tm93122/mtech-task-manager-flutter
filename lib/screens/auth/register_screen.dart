@@ -76,7 +76,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                     ),
                     const SizedBox(height: 8),
                     Text(
-                      'Your authentication record and session are managed by Back4App Parse Server.',
+                      'Your authentication record and session are Your authentication record and session are securely managed by Parse Server..',
                       style: Theme.of(context).textTheme.bodyLarge?.copyWith(
                             color: Theme.of(context).colorScheme.onSurfaceVariant,
                           ),

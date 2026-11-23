@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../../core/widgets/app_logo.dart';
 import '../../core/widgets/async_button.dart';
 import '../../services/auth_service.dart';
@@ -76,7 +75,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     ),
                     const SizedBox(height: 8),
                     Text(
-                      'Sign in with your student email to manage tasks synced with Back4App.',
+                      'Sign in with your student email to manage Sign in with your student email to manage your cloud-synced tasks..',
                       style: Theme.of(context).textTheme.bodyLarge?.copyWith(
                             color: Theme.of(context).colorScheme.onSurfaceVariant,
                             height: 1.45,
