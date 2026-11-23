@@ -25,7 +25,7 @@ These are included **design mockups** for repository presentation; capture actua
 
 | Login | Dashboard | Create task | Back4App cloud data |
 |---|---|---|---|
-| ![Login](assets/screenshots/01_login_mockup.png) | ![Dashboard](assets/screenshots/02_dashboard_mockup.png) | ![Create task](assets/screenshots/03_create_task_mockup.png) | ![Back4App](assets/screenshots/04_back4app_database_mockup.png) |
+| ![Login](assets/screenshots/01_login_mockup.png) | ![Dashboard](assets/screenshots/02_dashboard.png) | ![Create task](assets/screenshots/03_create_task_mockup.png) | ![Back4App](assets/screenshots/04_back4app_database_mockup.png) |
 
 ## Assignment demo flow
 
